@@ -120,13 +120,6 @@ The notebook artifact is [agentic_system.ipynb](agentic_system.ipynb) and alread
 - `Recommend a GPU under $400 for 1440p gaming.`
 - `I need a custom PC for video editing.`
 
-## Submission Artifacts
-
-- Script artifact: `agentic_system.py`
-- Notebook artifact: `agentic_system.ipynb`
-- Report PDFs: `Agentic_AI_System_Design_Report.pdf`, `module_summary.pdf` and `Agentic_AI_Systems_Analysis_Report.pdf`
-- Architecture diagram: `architecture_diagram.svg`
-
 The notebook and `--demo` mode both expose observable outputs, actions, decisions, and traces for review.
 
 ## Limitations and Risks
